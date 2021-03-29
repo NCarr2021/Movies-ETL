@@ -23,8 +23,9 @@ https://github.com/NCarr2021/Movies-ETL/Resources
 
 Folder Resources contains:
 - wikipedia.movies.json
-- movies_metadata.csv
-- ratings.csv file was not loaded due to large file size. TA advised not to load file.
-- Screen shot for file counts 
+- movies_metadata.csv was not loaded due to large file size.
+- ratings.csv file was not loaded due to large file size. 
+- (TA advised not to load file)
+- - Screen shot for file counts 
 	- movies_query.png
 	- ratings-query.png
